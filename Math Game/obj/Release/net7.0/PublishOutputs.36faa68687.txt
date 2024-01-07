@@ -1,0 +1,5 @@
+C:\Users\craig\Desktop\C# Academy\Projects\Math Game.exe
+C:\Users\craig\Desktop\C# Academy\Projects\Math Game.dll
+C:\Users\craig\Desktop\C# Academy\Projects\Math Game.deps.json
+C:\Users\craig\Desktop\C# Academy\Projects\Math Game.runtimeconfig.json
+C:\Users\craig\Desktop\C# Academy\Projects\Math Game.pdb
